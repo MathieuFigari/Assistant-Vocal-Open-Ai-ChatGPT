@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "marie-lilas-356815",
-  "private_key_id": "b9660510070d9aeea82f64b6bf4f734c5718d5bc",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDg/e0T4HzDKZd0\n8KQtM34YGrwjkKn9sCOsw8W4H4fSYfHHCHTcGPbU9FgEJWb1W03TMvPGOWuf2zyf\nheQzcy8ZwbxY7ebY7/JI+YVM6rpSX9ge0TlWXWmrkkfcRcBhOymVSAoaSdJzKHH0\nZBW2pLFuYoKpihFUSU3duGVcmINYQ5/aGGS/GKLrNtXNRQNrwvnhVvyHJXl5zbPc\nP6VRnDi1Bl9r1UN6V1kKx4/630rlI458vrscpCs9GhuzfPB5c2EOGNDBXyYkB0CY\ny1IAE88trKdc8/ilWOIIHSuPl8BL7xcVNeCRjBYANJPUGCjIzN11wgWcBnh3nALp\n7l3mpuDNAgMBAAECggEAHSrOATWo9uP9bnuDzRhP0HAm07V9VBXxigQXLbdotC1e\nWp8OBzp1RUYn4uG2Zzhe7nI8iAYJnb+eLE//NWxJPt2OvTiaJKV2k19FmKMVZHho\nXBZjiH6zpDpidnvUZMZ2rZOZO682SReFLlmLNxJCrjy3E6OCe5rFLWkqOsbKwDZF\nzANOX1I0S59boXCn1mK+qDOhfvStjkK4VbAcVVr+EGfnjmi6dP6rASvT4CTK+T66\nkP2pV1thqM8iw1socaskvLHK/qn6aucIELv3/gWEUzstZPlzRE1CV3e6AMcYJo21\nSlMonc49FZY7+WeNKslhE/LRj6WFLAk7G1rDRyEPQQKBgQD57Fd7WgL7PUJ1uGxe\ndwfXuUJsfaPYtZZ75R/182yOzuYy171AnG3zkfO6qJZz27EkOxI9L0pUQ2thW530\n/JqP1wvJcCWtdx68O3a8ECv6Pjh/fObZlo39wiQAgbLhx8216wuIZJMg04V2Y7Po\n984fe4DUbpGzdVwg+cKjt7+05wKBgQDmdmX2VShZKUO0bS8k/CA5czhturyM6VRt\ntU1srBEwEF8XLOnxlFssloMrQh0de+WGOjG5jrcY5eRgHR3Ies920w65rxYA9xwD\naEwge8rVotA4QyjV2Exg/0gwlVVp6qSjdCfYYz6JERqUDH0e9mcAltKfgZyjskR9\nCgcg0MLSKwKBgCDVfgDEqJOdTrfsjMA0XyFmQ2XBc98qrCSGy5YibuasI+4WDdUJ\nOCDB0gV51JpQCIu7/v9u0RMU8GyP/saK0TuIgxHp2+lYNv9/yG+YqE5uEjodjK6V\nav4lnVk7sOacu1flE1TN8c5kO6p8GszGkZvtO9Ws2RN8nafvaDTeFR+NAoGBAJ3e\nCthj2yDAeIV2qW2/W9+ews+/s/setlv0btX7REbVYB4DATof8xim/bE7N7CDt2Vs\nJbXDQj9G81q3dzhmkAkIaLTfb8Y3f7QB1OwHgJk5T0LLFoTuBtwG4w+MrBbCygbB\nwa2jximkUr2JlIgKJ+KqbhsfcQpdSjcREHL1Lg9DAoGAR2WXkHBNCAvTMwVPQPDB\nTUeMgWkZWlJ2+aLcpvdWEnlIQohuCUQXbOvnSjnU0yXDUOwPipk0UPF3eMYMDjce\ncuepIJYrlYdBxJoWF0dPzCYubppegxvtq1ZU7b9/ltGBUpiYE2ZZ9cNeHkRJfOBy\nKK6yCs3zKgDIzPnvu3BcgDQ=\n-----END PRIVATE KEY-----\n",
-  "client_email": "voicebot@marie-lilas-356815.iam.gserviceaccount.com",
-  "client_id": "108211260587607024505",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/voicebot%40marie-lilas-356815.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
