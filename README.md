@@ -12,6 +12,6 @@ Pour lancer l'Application, il vous faudra une clé API open-AI
 
 4- Lancer l'application sur un emulateur ou votre smartphone avec la commande flutter run 
 
-5- Si vous souhaiter installer l'application sur votre smartphone, executez la commande flutter build apk, récuperez le fichier app-release.apk dans ce dossier => build/app/outputs/flutter-apk, placez le dans votre smartphone et installez le 
+5- Si vous souhaiter installer l'application sur votre smartphone Android, executez la commande flutter build apk, récuperez le fichier app-release.apk dans ce dossier => build/app/outputs/flutter-apk, placez le dans votre smartphone et installez le 
 
 6- Profitez
